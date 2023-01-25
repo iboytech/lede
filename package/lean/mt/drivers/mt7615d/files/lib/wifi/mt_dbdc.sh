@@ -35,12 +35,12 @@ detect_mt_dbdc() {
 						htmode=HT20
 						pb_smart=1
 						noscan=0
-						ssid="OpenWRT-2.4G"
+						ssid="OpenWrt-2.4G"
 						;;
 					rax0)
 						hwmode=11a
 						htmode=VHT80
-						ssid="OpenWRT-5G"
+						ssid="OpenWrt-5G"
 						pb_smart=0
 						noscan=1
 						;;
